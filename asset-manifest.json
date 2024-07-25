@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/karthikggg/syscode_webapp.git/static/css/main.d86d0e40.css",
+    "main.js": "/karthikggg/syscode_webapp.git/static/js/main.b0567b0a.js",
+    "static/js/453.41235e12.chunk.js": "/karthikggg/syscode_webapp.git/static/js/453.41235e12.chunk.js",
+    "index.html": "/karthikggg/syscode_webapp.git/index.html",
+    "main.d86d0e40.css.map": "/karthikggg/syscode_webapp.git/static/css/main.d86d0e40.css.map",
+    "main.b0567b0a.js.map": "/karthikggg/syscode_webapp.git/static/js/main.b0567b0a.js.map",
+    "453.41235e12.chunk.js.map": "/karthikggg/syscode_webapp.git/static/js/453.41235e12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d86d0e40.css",
+    "static/js/main.b0567b0a.js"
+  ]
+}
