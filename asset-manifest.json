@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/karthikggg/syscodewebapp.git/static/css/main.d86d0e40.css",
-    "main.js": "/karthikggg/syscodewebapp.git/static/js/main.b6ee12b8.js",
-    "static/js/453.41235e12.chunk.js": "/karthikggg/syscodewebapp.git/static/js/453.41235e12.chunk.js",
-    "index.html": "/karthikggg/syscodewebapp.git/index.html",
-    "main.d86d0e40.css.map": "/karthikggg/syscodewebapp.git/static/css/main.d86d0e40.css.map",
-    "main.b6ee12b8.js.map": "/karthikggg/syscodewebapp.git/static/js/main.b6ee12b8.js.map",
-    "453.41235e12.chunk.js.map": "/karthikggg/syscodewebapp.git/static/js/453.41235e12.chunk.js.map"
+    "main.css": "/static/css/main.d86d0e40.css",
+    "main.js": "/static/js/main.2e349706.js",
+    "static/js/453.41235e12.chunk.js": "/static/js/453.41235e12.chunk.js",
+    "index.html": "/index.html",
+    "main.d86d0e40.css.map": "/static/css/main.d86d0e40.css.map",
+    "main.2e349706.js.map": "/static/js/main.2e349706.js.map",
+    "453.41235e12.chunk.js.map": "/static/js/453.41235e12.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d86d0e40.css",
-    "static/js/main.b6ee12b8.js"
+    "static/js/main.2e349706.js"
   ]
 }
